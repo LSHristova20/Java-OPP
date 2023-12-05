@@ -1,4 +1,4 @@
-package PetiDekemvri.PetiDekemvri.vtora;
+package FifthDecember.Ferrari;
 
 public interface Car {
     String brakes();

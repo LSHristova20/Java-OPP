@@ -1,4 +1,4 @@
-package PetiDekemvri.PetiDekemvri.Purva;
+package FifthDecember.BorderControl;
 
 public interface Identifiable {
     String getId();

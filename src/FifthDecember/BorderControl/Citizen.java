@@ -1,25 +1,23 @@
-package PetiDekemvri.PetiDekemvri.Purva;
+package FifthDecember.BorderControl;
 
-public class Citizen  implements Identifiable {
-
+public class Citizen implements Identifiable{
     private String name;
     private int age;
     private String id;
 
-    public Citizen(String name, int age, String id)
-    {
+    public Citizen(String name, int age, String id){
         this.name = name;
         this.age = age;
-        this. id = id;
+        this.id = id;
     }
-    public String getName(){
+
+    public String getName() {
         return this.name;
     }
 
-    public int getAge(){
+    public int getAge() {
         return this.age;
     }
-
 
     @Override
     public String getId() {
