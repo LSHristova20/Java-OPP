@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86cbe8e2-75fe-43dc-b5a4-8bb9898fe4ee" name="Changes" comment="update github repo">
-      <change afterPath="$PROJECT_DIR$/DevetnadestiMart/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="86cbe8e2-75fe-43dc-b5a4-8bb9898fe4ee" name="Changes" comment="Add Classwork package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +39,12 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrinadesetiFevruari.Main" />
+    <configuration name="Classwork.TrinadesetiFevruari.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classwork.TrinadesetiFevruari.Main" />
       <module name="Java-OPP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TrinadesetiFevruari.*" />
+          <option name="PATTERN" value="Classwork.TrinadesetiFevruari.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,7 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Classwork.TrinadesetiFevruari.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -75,7 +72,7 @@
       <workItem from="1708414533990" duration="327000" />
       <workItem from="1710834177427" duration="1633000" />
       <workItem from="1710928725222" duration="6000" />
-      <workItem from="1713854233238" duration="332000" />
+      <workItem from="1713854233238" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="Generic class">
       <created>1707814479282</created>
@@ -91,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710835062190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add packages to the repo">
+      <created>1713854783153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713854783153</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Classwork package">
+      <created>1713854929559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713854929559</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Generic class" />
     <MESSAGE value="update github repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="update github repo" />
+    <MESSAGE value="Add packages to the repo" />
+    <MESSAGE value="Add Classwork package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Classwork package" />
   </component>
 </project>
