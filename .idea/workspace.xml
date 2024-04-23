@@ -1,69 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86cbe8e2-75fe-43dc-b5a4-8bb9898fe4ee" name="Changes" comment="Generic class">
-      <change afterPath="$PROJECT_DIR$/DvadesetISedmiFevruari/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dwanadesetimart/DogComparatorByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dwanadesetimart/DogComparatorByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dwanadesetimart/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PetiMart/FixEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PetiMart/Main.java" afterDir="false" />
+    <list default="true" id="86cbe8e2-75fe-43dc-b5a4-8bb9898fe4ee" name="Changes" comment="update github repo">
+      <change afterPath="$PROJECT_DIR$/DevetnadestiMart/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/DvanadesetiDekemvri/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/DvanadesetiDekemvri/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/DvanadesetiDekemvri/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/DvanadesetiDekemvri/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/DvanadesetiDekemvri/Mammal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/DvanadesetiDekemvri/Puppy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/FourteenthNovember/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/FourteenthNovember/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/FourteenthNovember/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/Java-OPP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/SeventhNovember/NeedForSpeed/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/SeventhNovember/NeedForSpeed/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/SeventhNovember/NeedForSpeed/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/SeventhNovember/PersonAndChild/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/SeventhNovember/PersonAndChild/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/SeventhNovember/PersonAndChild/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/CustomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/DoublePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/GenericInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/IntegerPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TrinadesetiFevruari/StringPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/firstExample/Bulgarian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/firstExample/Chinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/firstExample/European.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/firstExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/firstExample/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/secondExample/BasePerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/secondExample/Bulgarian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/secondExample/Chinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/secondExample/European.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/secondExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyEightNovember/secondExample/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyFirstNovember/Creature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyFirstNovember/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyFirstNovember/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyFirstNovember/ShoppingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/TwentyFirstNovember/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/animal/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/animal/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/animal/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/animal/MyCustomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/bankAccount/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/bankAccount/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/car/MainCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/findPrimeNumbersInRange/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/findPrimeNumbersInRange/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/findPrimeNumbersInRange/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-OPP/findPrimeNumbersInRange/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +73,9 @@
       <workItem from="1707810023093" duration="4825000" />
       <workItem from="1707905363814" duration="337000" />
       <workItem from="1708414533990" duration="327000" />
-      <workItem from="1710834177427" duration="750000" />
+      <workItem from="1710834177427" duration="1633000" />
+      <workItem from="1710928725222" duration="6000" />
+      <workItem from="1713854233238" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="Generic class">
       <created>1707814479282</created>
@@ -142,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707814479282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update github repo">
+      <created>1710835062189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710835062190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Generic class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic class" />
+    <MESSAGE value="update github repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update github repo" />
   </component>
 </project>
